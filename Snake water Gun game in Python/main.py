@@ -1,8 +1,4 @@
-'''
-1 for snake 
--1 for water 
-0 for gun
-'''
+
 import random
 
 def get_computer_choice():
